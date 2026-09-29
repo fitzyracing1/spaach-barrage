@@ -1,2 +1,5 @@
 # spaach-barrage
-Barrage plain-language clone of fitzyracing1/spaach
+
+Barrage clone of [fitzyracing1/spaach](https://github.com/fitzyracing1/spaach).
+
+Read [listing.barrage](listing.barrage).
